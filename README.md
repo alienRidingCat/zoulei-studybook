@@ -36,4 +36,5 @@
 2021/12/12 算法-逆序链表
   - 代码 
     - [返回倒数第k个节点](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/007/007-返回倒数第k个节点.js)
-  - 掘金文章 [地址](-)
+    - [验证二叉树的前序序列化](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/007/007-验证二叉树的前序序列化.js)
+  - 掘金文章 [地址](https://juejin.cn/post/7041552498280103950/)

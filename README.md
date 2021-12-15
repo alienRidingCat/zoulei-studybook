@@ -33,8 +33,18 @@
 
   - 掘金文章 [地址](https://juejin.cn/post/7040822962999541768/)
 
-2021/12/12 算法-逆序链表
+2021/12/14 算法-逆序链表
   - 代码 
     - [返回倒数第k个节点](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/007/007-返回倒数第k个节点.js)
     - [验证二叉树的前序序列化](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/007/007-验证二叉树的前序序列化.js)
   - 掘金文章 [地址](https://juejin.cn/post/7041552498280103950/)
+
+2021/12/15 算法-基础计算器 II
+  - 代码 
+    - [基础计算器 II](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/008/008-基础计算器II.js)
+    - [链表中倒数第k个节点](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/008/008-链表中倒数第k个节点.js)
+    - [面试题02.03.删除中间节点](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/008/008-面试题02.03.删除中间节点.js)
+    - [重排链表](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/008/008-重排链表.js)
+  - 掘金文章 
+    - [基础计算器 II](https://juejin.cn/post/7041835545734938655)
+    - [链表](https://juejin.cn/post/7041977575748567077/)

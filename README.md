@@ -48,3 +48,11 @@
   - 掘金文章 
     - [基础计算器 II](https://juejin.cn/post/7041835545734938655)
     - [链表](https://juejin.cn/post/7041977575748567077/)
+
+2021/12/16 算法-复杂链表的复制、两数相加 II
+  - 代码 
+    - [两数相加 II](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/009/009-445.两数相加II)
+    - [复杂链表的复制](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/009/009-复杂链表的复制.js)
+  - 掘金文章 
+    - [【路飞】-算法练习——复杂链表的复制、两数相加 II](https://juejin.cn/post/7042345738453385223/)
+

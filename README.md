@@ -56,3 +56,7 @@
   - 掘金文章 
     - [【路飞】-算法练习——复杂链表的复制、两数相加 II](https://juejin.cn/post/7042345738453385223/)
 
+2021/12/19 算法-删除链表的节点、环路检测
+  - 代码 
+    - [删除链表的节点](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/010/010-删除链表的节点.js)
+    - [环路检测](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/010/010-环路检测.js)

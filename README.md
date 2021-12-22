@@ -60,3 +60,15 @@
   - 代码 
     - [删除链表的节点](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/010/010-删除链表的节点.js)
     - [环路检测](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/010/010-环路检测.js)
+  
+2021/12/20 算法-删除链表的节点、环路检测
+  - 代码 
+    - [斐波那契数列](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/011/011-斐波那契数列.js)
+    - [分割链表](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/011/011-分割链表.js)
+    - [分隔链表](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/011/011-分隔链表.js)
+    - [路径总和](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/011/011-路径总和.js)
+  
+2021/12/22 算法-删除链表的节点、环路检测
+  - 代码 
+    - [设计链表](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/012/012-设计链表.js)
+  - 掘金文章 [链表练习](https://juejin.cn/post/7044567958747775007/)

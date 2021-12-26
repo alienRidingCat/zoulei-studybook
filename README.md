@@ -72,3 +72,12 @@
   - 代码 
     - [设计链表](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/012/012-设计链表.js)
   - 掘金文章 [链表练习](https://juejin.cn/post/7044567958747775007/)
+
+2021/12/27 算法-二叉树练习
+  - 代码 
+    - [013-从上到下打印二叉树](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/013/013-从上到下打印二叉树.js)
+    - [013-二叉树的前序遍历](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/013/013-二叉树的前序遍历.js)
+    - [013-二叉搜索树的第k大节点](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/013/013-二叉搜索树的第k大节点.js)
+    - [013-翻转二叉树](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/013/013-翻转二叉树.js)
+    - [013-N叉树的前序遍历](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/013/013-N叉树的前序遍历.js)
+  - 掘金文章 [链表练习](https://juejin.cn/post/7046052285377413157/)

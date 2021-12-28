@@ -81,3 +81,8 @@
     - [013-翻转二叉树](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/013/013-翻转二叉树.js)
     - [013-N叉树的前序遍历](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/013/013-N叉树的前序遍历.js)
   - 掘金文章 [链表练习](https://juejin.cn/post/7046052285377413157/)
+
+2021/12/28 算法-二叉堆练习
+  - 代码 
+    - [014-数据流中的第 K 大元素](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/014/014-数据流中的第K大元素.js)
+    - [014-小顶堆](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/014/014-小顶堆.js)

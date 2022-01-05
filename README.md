@@ -92,3 +92,11 @@
     - [015-大顶堆](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/015/015-大顶堆.js)
     - [015-前K个高频单词](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/015/015-前K个高频单词.js)
   - 掘金文章 [大顶堆、排序 ](https://juejin.cn/post/7047160486055378974/)
+
+2022/1/5 算法——二叉树
+  - 代码 
+    - [016-对称二叉树](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/016/016-对称二叉树.js)
+    - [016-二叉树的最大深度](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/016/016-二叉树的最大深度.js)
+    - [016-相同的树](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/016/016-相同的树.js)
+  - 掘金文章 [算法——二叉树 ](https://juejin.cn/post/7049740269633142820/)
+  - 

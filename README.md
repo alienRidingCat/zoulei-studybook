@@ -105,3 +105,8 @@
     - [017-二叉搜索树的最近公共祖先](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/017/017-二叉搜索树的最近公共祖先.js)
   - 掘金文章 [算法——二叉搜索树 ](https://juejin.cn/post/7050132954047053855/)
   
+2022/1/10 算法——二叉搜索树Ⅱ
+  - 代码 
+    - [018-验证二叉搜索树](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/018/018-验证二叉搜索树.js)
+    - [018-二叉搜索树中第K小的元素](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/018/018-二叉搜索树中第K小的元素.js)
+  - 掘金文章 [[菜鸟刷题]算法——二叉搜索树Ⅱ](https://juejin.cn/post/7051617836761874439/)

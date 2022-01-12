@@ -111,6 +111,7 @@
     - [018-二叉搜索树中第K小的元素](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/018/018-二叉搜索树中第K小的元素.js)
   - 掘金文章 [[菜鸟刷题]算法——二叉搜索树Ⅱ](https://juejin.cn/post/7051617836761874439/)
 
-2022/1/10 算法——最长连续序列
+2022/1/12 算法——最长连续序列
   - 代码 
     - [019-最长连续序列](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/019/019-最长连续序列.js)
+  - 掘进文章 [[菜鸟刷题]算法——最长连续序列](https://juejin.cn/post/7052361826100576269/)

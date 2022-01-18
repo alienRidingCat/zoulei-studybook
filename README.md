@@ -122,3 +122,9 @@
     - [根据字符出现频率排序](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/020/根据字符出现频率排序.js)
     - [最接近原点的K个点](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/020/最接近原点的K个点.js)
   - 掘进文章 [[菜鸟刷题]算法——Map+排序](https://juejin.cn/post/7052734418758139934/)
+
+2022/1/18 算法——归并排序链表
+  - 代码 
+    - [排序链表(迭代法)](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/021/排序链表(迭代法).js)
+    - [排序链表(递归法)](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/021/排序链表(递归法).js)
+  - 掘进文章 [[路飞]算法——归并排序链表 ](https://juejin.cn/post/7054590366657282056/)

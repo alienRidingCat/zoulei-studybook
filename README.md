@@ -128,3 +128,10 @@
     - [排序链表(迭代法)](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/021/排序链表(迭代法).js)
     - [排序链表(递归法)](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/021/排序链表(递归法).js)
   - 掘进文章 [[路飞]算法——归并排序链表 ](https://juejin.cn/post/7054590366657282056/)
+
+2022/1/120 手写bind/call/apply
+  - 代码
+    - [bind](https://github.com/alienRidingCat/Study-code/blob/main/package/bind/index.js)
+    - [call](https://github.com/alienRidingCat/Study-code/blob/main/package/call/index.js)
+    - [apply](https://github.com/alienRidingCat/Study-code/blob/main/package/apply/index.js)
+  - 掘进文章 [老生常谈？ bind、call、apply 手写实现](https://juejin.cn/post/7055337440168378398)

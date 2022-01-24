@@ -135,3 +135,9 @@
     - [call](https://github.com/alienRidingCat/Study-code/blob/main/package/call/index.js)
     - [apply](https://github.com/alienRidingCat/Study-code/blob/main/package/apply/index.js)
   - 掘进文章 [老生常谈？ bind、call、apply 手写实现](https://juejin.cn/post/7055337440168378398)
+
+2022/1/24 【路飞】算法——数值区间整合
+  - 代码 
+    - [合并区间](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/022/合并区间.js)
+    - [删除被覆盖区间](https://github.com/alienRidingCat/Study-code/blob/main/%E7%AE%97%E6%B3%95/022/删除被覆盖区间.js)
+  - 掘进文章 [【路飞】算法——数值区间整合](https://juejin.cn/post/7056807594039443470/)
